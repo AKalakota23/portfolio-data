@@ -1,0 +1,18 @@
+{
+  "projects": [
+    {
+      "title": "IEEE HardHack Hackathon",
+      "description": "Developed Arduino project to enhance deaf people's situational awareness during nighttime navigation",
+      "imgSrc": "images/hardhack.jpg",
+      "imgAlt": "Screenshot of project one",
+      "link": "HardHack.html"
+    },
+    {
+      "title": "Rodent Recon",
+      "description": "Built a security system to deter rodents",
+      "imgSrc": "images/squirrel1.jpg",
+      "imgAlt": "Screenshot of project two",
+      "link": "https://example.com/project2"
+    }
+  ]
+}
